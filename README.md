@@ -1,2 +1,1 @@
-# Juego-de-correr-y-matar
-En este juego deberás de ir eliminado a todos los que se te crucen
+# C19_Plantilla_Proyecto_Tu_Propio_Juego_de_corredor_infinito
